@@ -1,5 +1,3 @@
-
-https://github.com/gabrybyroot/Security-Login-Dashboard/assets/157123715/17d435f4-dca2-450a-8128-5a7f3b673b0e
 # Security Login Dashboard
 
 Please note that the code and information are initially provided in Italian, and translation may be required based on the desired language.
