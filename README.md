@@ -1,3 +1,5 @@
+
+https://github.com/gabrybyroot/Security-Login-Dashboard/assets/157123715/17d435f4-dca2-450a-8128-5a7f3b673b0e
 # Security Login Dashboard
 
 Please note that the code and information are initially provided in Italian, and translation may be required based on the desired language.
@@ -33,4 +35,7 @@ $host = "127.0.0.1";
 $user = "";
 $password = "";
 $db = "";
+
+![Immagine 2024-01-27 182917](https://github.com/gabrybyroot/Security-Login-Dashboard/assets/157123715/bdf6183a-660b-490a-8d58-3c2cee9ced7d)
+![Immagine 2024-01-27 180238](https://github.com/gabrybyroot/Security-Login-Dashboard/assets/157123715/dd635904-58ce-4e66-836f-afc8604142b5)
 
