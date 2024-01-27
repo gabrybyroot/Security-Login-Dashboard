@@ -34,6 +34,3 @@ $user = "";
 $password = "";
 $db = "";
 
-```bash
-git clone https://github.com/tuonome/cyberlink-dashboard.git
-
